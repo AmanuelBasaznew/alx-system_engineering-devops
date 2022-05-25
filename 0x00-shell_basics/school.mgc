@@ -1,2 +1,2 @@
-0 search/16 SCHOOL
-!:mime text/SCHOOL
+#!/bin/bash
+0 string SCHOOL School related data !:mime School
