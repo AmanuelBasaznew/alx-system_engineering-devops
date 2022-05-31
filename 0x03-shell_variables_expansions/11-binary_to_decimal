@@ -1,2 +1,2 @@
 #!/bin/bash
-${B2D[BINARY]}
+echo "${B2D[BINARY]}"
